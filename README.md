@@ -4,16 +4,23 @@
 
 ### Software Developer · Full-Stack · AI Systems
 
-<br>
-
-### Building things, breaking things, understanding why.
-### Full-stack products. AI systems.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=D6BE6A&center=true&vCenter=true&width=900&lines=Building+things%2C+breaking+things%2C+understanding+why.;Full-stack+products.+AI+systems.;Turning+ideas+into+working+software.)](https://git.io/typing-svg)
 
 <br>
 
-<a href="https://www.linkedin.com/in/alsoankit/">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsoankit/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsoankit/)
+[![Email](https://img.shields.io/badge/Email-D6BE6A?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+![Full-Stack](https://img.shields.io/badge/FULL--STACK-React%20%7C%20TypeScript%20%7C%20Node.js-61DAFB?style=flat-square&logo=react&logoColor=111111)
+![AI Systems](https://img.shields.io/badge/AI%20SYSTEMS-RAG%20%7C%20LLMs%20%7C%20Retrieval-A855F7?style=flat-square)
+![Backend](https://img.shields.io/badge/BACKEND-PostgreSQL%20%7C%20FastAPI%20%7C%20Docker-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -136,17 +143,48 @@ Production deployment and the services behind the AI features.
 
 <div align="center">
 
-```text
-        IDEA
-          │
-          ▼
-       BUILD IT
-          │
-          ▼
-     SOMETHING BREAKS
-          │
-          ▼
-   FIGURE OUT WHY
-          │
-          ▼
-      MAKE IT BETTER
+```javascript
+const loop = {
+  idea: "What if I built this?",
+  build: "Make it work.",
+  break: "Find what doesn't.",
+  understand: "Figure out why.",
+  improve: "Make the next version better."
+};
+```
+
+</div>
+
+I prefer projects that leave me with a better mental model of how the system actually works.
+
+The first version usually answers **"can this work?"**
+
+The debugging usually answers the more interesting question: **"why did it work that way?"**
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=alsoankit&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs&rank_icon=github&include_all_commits=true" />
+
+<img height="175" src="https://streak-stats.demolab.com?user=alsoankit&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something interesting.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsoankit/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alsoankit)
+[![Email](https://img.shields.io/badge/Email-D6BE6A?style=flat-square&logo=gmail&logoColor=111111)](mailto:YOUR_EMAIL)
+
+<br><br>
+
+<sub>Build things. Understand them. Make them better.</sub>
+
+</div>
