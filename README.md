@@ -2,106 +2,115 @@
 
 # ANKIT KUMAR
 
-### Software Developer
+### Software Developer · Full-Stack · AI Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=D6BE6A&center=true&vCenter=true&width=850&lines=I+build+software+that+actually+ships.;Full-stack+products.+AI+systems.;Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve.)](https://git.io/typing-svg)
+<br>
 
-<p>
-  <a href="https://www.linkedin.com/in/alsoankit/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/alsoankit">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+### Building things, breaking things, understanding why.
+### Full-stack products. AI systems.
+
+<br>
+
+<a href="https://www.linkedin.com/in/alsoankit/">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL">Email</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   $ whoami                                                   │
-│                                                              │
-│   role        → Software Developer                           │
-│   focus       → Full-stack + AI systems                      │
-│   stack       → React / TypeScript / Node / PostgreSQL       │
-│   approach    → Build → Break → Understand → Improve         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-## ⚡ What I Build
+## ⚡ Build → Break → Understand → Improve
 
 I like taking an idea from a rough concept to something that actually runs.
 
 That means working across the frontend, APIs, data layer, integrations, deployment, and the problems that show up once everything is connected.
 
-More recently, I've been building AI systems where the interesting part is not just calling an LLM, but understanding retrieval, evidence, evaluation, and failure modes.
+I'm especially interested in AI systems where the engineering goes beyond an LLM call: retrieval, evidence, evaluation, and figuring out why a system fails.
 
 ---
 
-## 🚀 Selected Work
+# 🚀 Things I've Built
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="68%" valign="top">
 
-<h3>🧠 Anchor</h3>
+## 🧠 Anchor
 
-<b>Grounded RAG Engine</b>
+### Grounded RAG Engine
 
 A retrieval and verification pipeline designed to keep generated answers tied to source evidence.
 
-<br><br>
+**The interesting part**
 
-<b>What makes it interesting</b>
+Semantic retrieval alone missed information hidden behind document cross-references. Anchor follows those references, gates weak evidence, and verifies claims in the final answer.
 
-- Citation-aware retrieval
-- Evidence gating and refusal
-- Claim-level verification
-- PostgreSQL + pgvector
-- Streaming pipeline over SSE
+### `70% → 100%`
+
+**Multi-hop retrieval after adding citation following.**
+
+`Python` `FastAPI` `PostgreSQL` `pgvector` `LLMs`
 
 <br>
 
-<code>Python</code> <code>FastAPI</code> <code>RAG</code> <code>LLMs</code>
-
-<br><br>
-
-<a href="https://github.com/alsoankit/anchor-rag"><b>→ Explore Anchor</b></a>
+<a href="https://github.com/alsoankit/anchor-rag"><b>View Anchor →</b></a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="32%" valign="top">
 
-<h3>💸 Splitora</h3>
+### The idea
 
-<b>AI-powered expense splitting</b>
+> **Retrieval decides what the model is allowed to see.**
 
-A full-stack group expense platform with live dashboards, debt simplification, and AI-powered features.
-
-<br><br>
-
-<b>What I worked on</b>
-
-- Frontend and product integration
-- Firebase authentication and data
-- Live dashboard and animations
-- AI OCR and insights integration
-- Production deployment
+> **Verification decides what it is allowed to say.**
 
 <br>
 
-<code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>AI</code>
+**Retrieval**
+- Semantic search
+- Citation following
 
-<br><br>
+**Verification**
+- Evidence gating
+- Claim checking
 
-<a href="https://github.com/alsoankit/splitora"><b>→ Explore Splitora</b></a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="32%" valign="top">
+
+## 💸 Splitora
+
+### Group expense splitting
+
+A full-stack expense platform with live dashboards, debt simplification, OCR scanning, and AI insights.
+
+`React` `TypeScript` `Firebase` `AI`
+
+<br>
+
+<a href="https://github.com/alsoankit/splitora"><b>View Splitora →</b></a>
+
+</td>
+
+<td width="68%" valign="top">
+
+### What I worked on
+
+**Frontend**  
+Product UI, live dashboard, animations and user flows.
+
+**Integration**  
+Firebase authentication, data flows and AI feature integration.
+
+**Deployment**  
+Production deployment and the services behind the AI features.
 
 </td>
 </tr>
@@ -109,7 +118,7 @@ A full-stack group expense platform with live dashboards, debt simplification, a
 
 ---
 
-## 🛠️ Stack
+## 🧰 Toolkit
 
 <div align="center">
 
@@ -117,60 +126,27 @@ A full-stack group expense platform with live dashboards, debt simplification, a
 
 <br><br>
 
-**AI / Data**
-
 `RAG` · `LLMs` · `Embeddings` · `pgvector` · `Retrieval` · `AI Evaluation`
 
 </div>
 
 ---
 
-## 🧩 How I Work
+## 🧠 How I Think About Building
 
 <div align="center">
 
-### `BUILD` → `BREAK` → `UNDERSTAND` → `IMPROVE`
-
-</div>
-
-I learn best by building systems that force me to understand what is happening underneath.
-
-The first version usually answers *"can this work?"*
-
-The interesting part starts when I ask *"why did it break?"*
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alsoankit&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsoankit&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=alsoankit&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something interesting.
-
-<a href="https://www.linkedin.com/in/alsoankit/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
-
-<br><br>
-
-<sub>Build things. Understand them. Make them better.</sub>
-
-</div>
+```text
+        IDEA
+          │
+          ▼
+       BUILD IT
+          │
+          ▼
+     SOMETHING BREAKS
+          │
+          ▼
+   FIGURE OUT WHY
+          │
+          ▼
+      MAKE IT BETTER
