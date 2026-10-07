@@ -1,100 +1,107 @@
 <div align="center">
 
-# Ankit Kumar
+# ANKIT KUMAR
 
-### Software Developer building full-stack products and AI systems.
+### Software Developer
 
-React · TypeScript · Node.js · PostgreSQL · Python · RAG · LLMs
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1200&color=D6BE6A&center=true&vCenter=true&width=850&lines=I+build+software+that+actually+ships.;Full-stack+products.+AI+systems.;Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Improve.)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/alsoankit/">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
+<p>
+  <a href="https://www.linkedin.com/in/alsoankit/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/alsoankit">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
 
 </div>
 
 ---
 
-## What I build
+<div align="center">
 
-I like taking an idea from a rough concept to a working product, including the frontend, APIs, data layer, integrations, and deployment.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   $ whoami                                                   │
+│                                                              │
+│   role        → Software Developer                           │
+│   focus       → Full-stack + AI systems                      │
+│   stack       → React / TypeScript / Node / PostgreSQL       │
+│   approach    → Build → Break → Understand → Improve         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-I also build AI systems where the interesting part is more than calling an LLM API. I care about retrieval, evidence, evaluation, and understanding why a system behaves the way it does.
+</div>
+
+## ⚡ What I Build
+
+I like taking an idea from a rough concept to something that actually runs.
+
+That means working across the frontend, APIs, data layer, integrations, deployment, and the problems that show up once everything is connected.
+
+More recently, I've been building AI systems where the interesting part is not just calling an LLM, but understanding retrieval, evidence, evaluation, and failure modes.
 
 ---
 
-## Selected work
+## 🚀 Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Anchor
+<h3>🧠 Anchor</h3>
 
-**Grounded RAG engine**
+<b>Grounded RAG Engine</b>
 
-A document QA pipeline designed to keep generated answers tied to retrieved evidence.
+A retrieval and verification pipeline designed to keep generated answers tied to source evidence.
+
+<br><br>
+
+<b>What makes it interesting</b>
 
 - Citation-aware retrieval
 - Evidence gating and refusal
 - Claim-level verification
 - PostgreSQL + pgvector
+- Streaming pipeline over SSE
 
-`Python` `FastAPI` `RAG` `LLMs`
+<br>
 
-**[View repository →](https://github.com/alsoankit/anchor-rag)**
+<code>Python</code> <code>FastAPI</code> <code>RAG</code> <code>LLMs</code>
+
+<br><br>
+
+<a href="https://github.com/alsoankit/anchor-rag"><b>→ Explore Anchor</b></a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Splitora
+<h3>💸 Splitora</h3>
 
-**AI-powered expense splitting**
+<b>AI-powered expense splitting</b>
 
 A full-stack group expense platform with live dashboards, debt simplification, and AI-powered features.
 
+<br><br>
+
+<b>What I worked on</b>
+
 - Frontend and product integration
 - Firebase authentication and data
-- AI OCR and insights
+- Live dashboard and animations
+- AI OCR and insights integration
 - Production deployment
 
-`React` `TypeScript` `Firebase` `AI`
+<br>
 
-**[View repository →](https://github.com/alsoankit/splitora)**
+<code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>AI</code>
 
-</td>
-</tr>
+<br><br>
 
-<tr>
-<td width="50%" valign="top">
-
-### Network Visualizer
-
-**Interactive networking concepts**
-
-A web-based visualization system for understanding networking concepts through animated flows and live device state.
-
-- ARP and switching
-- Router forwarding
-- DNS resolution
-- TCP concepts
-
-`React` `Vite` `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-### NSS Voting Portal
-
-**Real-world web application**
-
-A voting portal built for a college organization with authenticated access and cloud-backed data.
-
-- Google Sign-In
-- Firestore
-- Responsive frontend
-- Admin-oriented workflows
-
-`React` `Tailwind` `Firebase`
+<a href="https://github.com/alsoankit/splitora"><b>→ Explore Splitora</b></a>
 
 </td>
 </tr>
@@ -102,67 +109,55 @@ A voting portal built for a college organization with authenticated access and c
 
 ---
 
-## Tech
+## 🛠️ Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
-**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,fastapi,postgres,firebase,docker,git,github&perline=6" />
 
-React  
-Next.js  
-TypeScript  
-JavaScript  
-Tailwind CSS
+<br><br>
 
-</td>
-<td valign="top" width="33%">
+**AI / Data**
 
-**Backend**
+`RAG` · `LLMs` · `Embeddings` · `pgvector` · `Retrieval` · `AI Evaluation`
 
-Node.js  
-FastAPI  
-REST APIs  
-PostgreSQL  
-Firebase
-
-</td>
-<td valign="top" width="33%">
-
-**AI / Systems**
-
-RAG  
-LLM applications  
-Embeddings  
-pgvector  
-Docker
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## How I work
+## 🧩 How I Work
 
-```text
-BUILD  →  BREAK  →  UNDERSTAND  →  IMPROVE
-```
+<div align="center">
+
+### `BUILD` → `BREAK` → `UNDERSTAND` → `IMPROVE`
+
+</div>
 
 I learn best by building systems that force me to understand what is happening underneath.
 
-That usually means the first version works, something breaks, the debugging gets interesting, and the second version is much better.
+The first version usually answers *"can this work?"*
+
+The interesting part starts when I ask *"why did it break?"*
 
 ---
 
-## A few things I care about
+## 📊 GitHub
 
-- Building complete systems instead of isolated demos
-- Keeping architecture understandable and changeable
-- Measuring whether a system actually works
-- Understanding failure cases, not just happy paths
-- Shipping something useful, then improving it
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alsoankit&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsoankit&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alsoankit&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -170,8 +165,12 @@ That usually means the first version works, something breaks, the debugging gets
 
 ### Let's build something interesting.
 
-<a href="https://github.com/alsoankit">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/alsoankit/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:YOUR_EMAIL">Email</a>
+
+<br><br>
+
+<sub>Build things. Understand them. Make them better.</sub>
 
 </div>
