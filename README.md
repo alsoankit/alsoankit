@@ -115,6 +115,18 @@ Production deployment and the services behind the AI features.
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=alsoankit&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs&hide_rank=true&include_all_commits=true" />
+
+<img width="49%" height="195" src="https://streak-stats.demolab.com?user=alsoankit&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 ## 🧰 Toolkit
 
 <div align="center">
@@ -163,18 +175,6 @@ I prefer projects that leave me with a better mental model of how the system act
 The first version usually answers **"can this work?"**
 
 The debugging usually answers the more interesting question: **"why did it work that way?"**
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=alsoankit&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs&hide_rank=true&include_all_commits=true" />
-
-<img width="49%" height="195" src="https://streak-stats.demolab.com?user=alsoankit&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
