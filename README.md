@@ -170,12 +170,19 @@ The debugging usually answers the more interesting question: **"why did it work 
 
 <div align="center">
 
-<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=alsoankit&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs&include_all_commits=true" />
+<img
+  width="49%"
+  height="195"
+  src="https://github-readme-stats.vercel.app/api?username=alsoankit&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs&hide_rank=true&include_all_commits=true"
+/>
 
-<img width="49%" height="195" src="https://streak-stats.demolab.com?user=alsoankit&theme=tokyonight&hide_border=true" />
+<img
+  width="49%"
+  height="195"
+  src="https://streak-stats.demolab.com?user=alsoankit&theme=tokyonight&hide_border=true"
+/>
 
 </div>
-
 ---
 
 <div align="center">
