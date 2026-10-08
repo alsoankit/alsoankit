@@ -1,6 +1,6 @@
 <div align="center">
 
-# ANKIT KUMAR
+# ⚡ ANKIT KUMAR
 
 ### Software Developer · Full-Stack · AI Systems
 
@@ -11,16 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsoankit/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsoankit/)
 [![Email](https://img.shields.io/badge/Email-D6BE6A?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-<div align="center">
-
-![Full-Stack](https://img.shields.io/badge/FULL--STACK-React%20%7C%20TypeScript%20%7C%20Node.js-61DAFB?style=flat-square&logo=react&logoColor=111111)
-![AI Systems](https://img.shields.io/badge/AI%20SYSTEMS-RAG%20%7C%20LLMs%20%7C%20Retrieval-A855F7?style=flat-square)
-![Backend](https://img.shields.io/badge/BACKEND-PostgreSQL%20%7C%20FastAPI%20%7C%20Docker-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -98,7 +88,7 @@ Semantic retrieval alone missed information hidden behind document cross-referen
 
 A full-stack expense platform with live dashboards, debt simplification, OCR scanning, and AI insights.
 
-`React` `TypeScript` `Firebase` `AI`
+`Next.js` `TypeScript` `AI`
 
 <br>
 
@@ -114,7 +104,7 @@ A full-stack expense platform with live dashboards, debt simplification, OCR sca
 Product UI, live dashboard, animations and user flows.
 
 **Integration**  
-Firebase authentication, data flows and AI feature integration.
+Integrated the application's AI features and connected the different application components.
 
 **Deployment**  
 Production deployment and the services behind the AI features.
@@ -129,62 +119,26 @@ Production deployment and the services behind the AI features.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,python,fastapi,postgres,firebase,docker,git,github&perline=6" />
-
-<br><br>
-
-`RAG` · `LLMs` · `Embeddings` · `pgvector` · `Retrieval` · `AI Evaluation`
-
-</div>
-
----
-
-## 🧠 How I Think About Building
-
-<div align="center">
-
 ```javascript
-const loop = {
-  idea: "What if I built this?",
-  build: "Make it work.",
-  break: "Find what doesn't.",
-  understand: "Figure out why.",
-  improve: "Make the next version better."
+const stack = {
+  // ⚡ Full-Stack
+  fullStack: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "FastAPI",
+    "PostgreSQL",
+    "Docker"
+  ],
+
+  // 🧠 AI Systems
+  aiSystems: [
+    "RAG",
+    "LLMs",
+    "Embeddings",
+    "pgvector",
+    "Retrieval",
+    "AI Evaluation"
+  ]
 };
-```
-
-</div>
-
-I prefer projects that leave me with a better mental model of how the system actually works.
-
-The first version usually answers **"can this work?"**
-
-The debugging usually answers the more interesting question: **"why did it work that way?"**
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=alsoankit&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs&rank_icon=github&include_all_commits=true" />
-
-<img height="175" src="https://streak-stats.demolab.com?user=alsoankit&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something interesting.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsoankit/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alsoankit)
-[![Email](https://img.shields.io/badge/Email-D6BE6A?style=flat-square&logo=gmail&logoColor=111111)](mailto:YOUR_EMAIL)
-
-<br><br>
-
-<sub>Build things. Understand them. Make them better.</sub>
-
-</div>
