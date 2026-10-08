@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsoankit/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsoankit/)
-[![Email](https://img.shields.io/badge/Email-D6BE6A?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D6BE6A?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:ankitkumar.me0503@gmail.com)
 
 </div>
 
@@ -142,3 +142,48 @@ const stack = {
     "AI Evaluation"
   ]
 };
+```
+
+</div>
+
+---
+
+## 🧠 How I Think About Building
+
+<div align="center">
+
+```text
+IDEA  →  BUILD  →  SOMETHING BREAKS  →  FIGURE OUT WHY  →  MAKE IT BETTER
+```
+
+</div>
+
+I prefer projects that leave me with a better mental model of how the system actually works.
+
+The first version usually answers **"can this work?"**
+
+The debugging usually answers the more interesting question: **"why did it work that way?"**
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=alsoankit&show_icons=true&hide_border=true&theme=tokyonight&hide=stars,issues,contribs&include_all_commits=true" />
+
+<img width="49%" height="195" src="https://streak-stats.demolab.com?user=alsoankit&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something interesting.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsoankit/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alsoankit)
+[![Email](https://img.shields.io/badge/Email-D6BE6A?style=flat-square&logo=gmail&logoColor=111111)](mailto:ankitkumar.me0503@gmail.com)
+
+</div>
